@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4c177ea2-81d2-417f-b33f-ad8b4b418877" name="M293_Test" url="http://testbuerkim.students.bzz.ch">
+        <fileTransfer accessType="FTPS" host="testbuerkim.students.bzz.ch" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

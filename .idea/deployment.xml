@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="M293_Test" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="M293_Test">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/LU09A02" local="$PROJECT_DIR$" web="/LU09A02" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
