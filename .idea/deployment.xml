@@ -2,6 +2,13 @@
 <project version="4">
   <component name="PublishConfigData" serverName="M293_Test" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
+      <paths name="M293">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/LU09A02" local="$PROJECT_DIR$" web="/LU09A02" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="M293_Test">
         <serverdata>
           <mappings>
